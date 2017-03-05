@@ -1,0 +1,23 @@
+body { 
+  padding-top: 200px; 
+  padding-bottom: 70px;}
+
+h1 {
+  text-align : center;
+}
+
+.navbar {
+display:inline;
+white-space:nowrap;
+width:100%;
+}
+.nav li {
+display: inline-block;
+white-space:nowrap;
+background-color:orange;
+font-family:Arial;
+}
+
+li {
+font-size:20px;
+}
